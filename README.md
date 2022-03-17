@@ -1,5 +1,7 @@
 ### Hi there, I am Sreerag Rajan!👋
 
+I am a beginner web-developer seeking to make forays into the world of tech. I wish to work and contribute and leave a mark, no matter how small or big. I hope to work on tech that will ease the work of people
+
 
 
 <!--
