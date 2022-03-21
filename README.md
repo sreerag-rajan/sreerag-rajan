@@ -6,12 +6,32 @@ I am a Student of history, who has completed his masters on Modern Indian Histor
 
 I am also a bibliophile who enjoys to not just read but also buy and maintain a personal library. 
 
+## Techstack
+<img src = "https://img.icons8.com/color/2x/html-5.png" width="50px"/> <img src = "https://img.icons8.com/color/2x/css3.png" width="50px"/>
+<img src = "https://img.icons8.com/color/2x/javascript.png" width="50px"/>
+<img src = "https://img.icons8.com/fluency/2x/node-js.png" width="50px"/>
+<img src = "https://img.icons8.com/plasticine/2x/react.png" width="50px"/>
+<img src = "https://img.icons8.com/color/344/mongodb.png" width="50px"/>
+<img src = "https://img.icons8.com/color/344/django.png" width="50px"/>
+<img src = "https://img.icons8.com/color/344/mysql-logo.png" width="50px"/>
+<img src = "https://img.icons8.com/color/344/python--v1.png" width="50px"/>
+
+
 - 🌱 I’m currently learning Fullstack Web Development
 
 ### If you wish to know more about me checkout my [Portfolio](https://sreerag-portfolio.vercel.app/)
 
+<hr/>
+Connect with Me
+<br>
 
-### You can also connect with me on [LinkedIn](www.linkedin.com/in/sreerag-rajan-55383a222) or email me at sreerag.rajan5@gmail.com
+
+<a href="https://www.linkedin.com/in/sreerag-rajan-55383a222">
+  <img src = "https://img.icons8.com/color/344/linkedin.png" width="50px"/>
+</a>
+<a href="https://medium.com/@sreerag.rajan5"> <img src="https://img.icons8.com/color-glass/344/medium-monogram.png" width="50px"/> </a>
+  
+ 
 
 
 
