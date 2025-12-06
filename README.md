@@ -26,5 +26,3 @@ Currently, I am leveraging my mastery of **Node.js** while actively pivoting tow
 * **Mentorship:** Actively involved in hiring and mentoring engineering talent.
 
 [LinkedIn](http://www.linkedin.com/in/sreerag-rajan-55383a222) | [Portfolio](https://sreerag-portfolio.vercel.app/)
-
-[![Sreerag's github stats](https://github-readme-stats.vercel.app/api?username=sreerag-rajan)](https://github.com/anuraghazra/github-readme-stats)
