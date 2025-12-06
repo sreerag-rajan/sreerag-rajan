@@ -1,61 +1,30 @@
-### Hi there, I am Sreerag Rajan!👋
+# Hi, I'm Sreerag Rajan 👋
+## Senior Software Engineer | Backend Specialist
 
+I am a Senior Software Engineer with **4 years of experience** architecting and deploying large-scale, AI-first web applications. While I have a strong foundation in Full Stack development (specifically React), my passion lies in building robust, high-performance backend systems.
 
+Currently, I am leveraging my mastery of **Node.js** while actively pivoting towards **Golang** to maximize system performance and concurrency in microservices architectures.
 
-I am a aspiring web-developer seeking to make forays into the world of tech. I wish to work and contribute and leave a mark, no matter how small or big. Technology has come a long way in aiding our day to day life, and I too wish to be part of this adventure.
+### 🔭 Current Focus
+* **Architecting:** Designing scalable Microservices using Docker and Kubernetes.
+* **Pivoting:** Migrating performance-critical workflows from Node.js to **Golang**.
+* **AI Integration:** Engineering context-aware AI features and LLM workflows.
 
-As I am at the beginning of my journey, I do not seek to discriminate on the projects that I could work on. I am willing to work on any projects, be it open source or otherwise. I have been trained in Web development, so there is a familiarity there, but unknown terrains won't hold me back.
-<!--
-I am a Student of history, who has completed his masters on Modern Indian History, but was attracted to the journey of a web-developer. From building, deploying and seeing someone use what you built had me hooked. I seek to bring together best of both worlds and will venture to find ways of introducing technology into the world of humanities.
--->
-I am also a bibliophile who enjoys to not just read but also buy and maintain a personal library. 
+### 🛠 Tech Stack
+**Languages:**
+<img src="https://img.icons8.com/color/48/000000/golang.png" height="40" alt="Go" /> <img src="https://img.icons8.com/color/48/000000/typescript.png" height="40" alt="TypeScript" /> <img src="https://img.icons8.com/color/48/000000/python.png" height="40" alt="Python" /> <img src="https://img.icons8.com/fluency/48/000000/node-js.png" height="40" alt="NodeJS" />
 
-## Techstack
-<img src = "https://img.icons8.com/color/2x/html-5.png" width="50px"/> <img src = "https://img.icons8.com/color/2x/css3.png" width="50px"/>
-<img src = "https://img.icons8.com/color/2x/javascript.png" width="50px"/>
-<img src = "https://img.icons8.com/fluency/2x/node-js.png" width="50px"/>
-<img src = "https://img.icons8.com/plasticine/2x/react.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/mongodb.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/django.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/mysql-logo.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/python--v1.png" width="50px"/>
+**Infrastructure & DevOps:**
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" height="40" alt="Kubernetes" /> <img src="https://img.icons8.com/color/48/000000/docker.png" height="40" alt="Docker" /> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="40" alt="AWS" /> <img src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png" height="40" alt="Prometheus" />
 
+**Database & Caching:**
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="40" alt="PostgreSQL" /> <img src="https://img.icons8.com/color/48/000000/redis.png" height="40" alt="Redis" />
 
-- 🌱 I’m currently learning Fullstack Web Development
+### 💼 Professional Highlights
+* **Lead Architect:** Designed the complete microservices architecture for an AI-First HR platform.
+* **High Performance:** Optimized serverless backends and implemented Redis caching strategies for Learning Management Systems.
+* **Mentorship:** Actively involved in hiring and mentoring engineering talent.
 
-### If you wish to know more about me checkout my [Portfolio](https://sreerag-portfolio.vercel.app/)
-
-<hr/>
-Connect with Me
-<br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@sreerag.rajan5)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sreerag.rajan5)
-
-### My Github Stats:
-
+[LinkedIn](http://www.linkedin.com/in/sreerag-rajan-55383a222) | [Portfolio](https://sreerag-portfolio.vercel.app/)
 
 [![Sreerag's github stats](https://github-readme-stats.vercel.app/api?username=sreerag-rajan)](https://github.com/anuraghazra/github-readme-stats)
-  
- 
-
-
-
-
-
-
-
-<!--
-**sreerag-rajan/sreerag-rajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
