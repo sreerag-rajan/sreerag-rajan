@@ -21,8 +21,7 @@ Currently, I am leveraging my mastery of **Node.js** while actively pivoting tow
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="40" alt="PostgreSQL" /> <img src="https://img.icons8.com/color/48/000000/redis.png" height="40" alt="Redis" />
 
 ### 💼 Professional Highlights
-* **Lead Architect:** Designed the complete microservices architecture for an AI-First HR platform.
-* **High Performance:** Optimized serverless backends and implemented Redis caching strategies for Learning Management Systems.
-* **Mentorship:** Actively involved in hiring and mentoring engineering talent.
+* **Architect:** Designed the complete microservices architecture.
+* **High Performance:** Optimized serverless backends and implemented Redis caching strategies.
 
 [LinkedIn](http://www.linkedin.com/in/sreerag-rajan-55383a222) | [Portfolio](https://sreerag-portfolio.vercel.app/)
